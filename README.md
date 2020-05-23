@@ -6,7 +6,7 @@ As its name suggests, It is somehow like what people do in Trello but tasks and 
 
 Also  history is recorded of what lists added or was that successful or not, and....
 
-I used inheritance for implementing in c++.
+I used object orientation design in c++.
 
 main.cpp is a sample of using UTrello interface. List.cpp, List.hpp, Task.cpp, Task.hpp, User.cpp, User.hpp, UTrellointerface.cpp, and UTrellointerface.hpp contain the code of Utrello class. makefile is for attaching all this files together. The sampleout.txt file is the recorded file of what happened in main.cpp.
 
