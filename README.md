@@ -1,5 +1,5 @@
-# UTello
-UTello (UT + Trello) + Unit Test
+# UTrello
+UTrello (UT + Trello) + Unit Test
 
 This program is an implementation of an interface class for easily managing and handling a project(like add people, add assignments, create a list of tasks, create tasks, move tasks from a list to another, assign tasks, delete tasks, etc.)
 
