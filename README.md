@@ -11,4 +11,4 @@ I used object orientation design in c++.
 
 main.cpp is a sample of using UTrello interface. List.cpp, List.hpp, Task.cpp, Task.hpp, User.cpp, User.hpp, UTrellointerface.cpp, and UTrellointerface.hpp contain the code of Utrello class. makefile is for attaching all this files together. The sampleout.txt file is the recorded file of what happened in main.cpp.
 
-This program was my assignment in the Advanced Programming course, University of Tehran, Fall2019.
+This program was my assignment in the Advanced Programming course, University of Tehran, Fall 2019.
