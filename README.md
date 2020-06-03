@@ -1,11 +1,11 @@
 # UTrello
 UTrello (UT + Trello) + Unit Test
 
-This program is an implementation of an interface class for easily managing and handling a project(like add people, add assignments, create a list of tasks, create tasks, move tasks from a list to another, assign tasks, delete tasks, etc.)
+This program is an implementation of an interface class for easily managing and handling a project (like add people, add assignments, create a list of tasks, create tasks, move tasks from a list to another, assign tasks, delete tasks, etc.).
 
-As its name suggests, It is somehow like what people do in Trello but tasks and users and lists are just names!
+As its name suggests, It is somehow like what people do in Trello but tasks, users, and lists are just names!
 
-Also  history is recorded of what lists added or was that successful or not, and....
+Also  history is recorded of which lists had added or was that successful or not, and....
 
 I used object orientation design in c++.
 
