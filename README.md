@@ -1,14 +1,8 @@
 # UTrello
 UTrello (UT + Trello) + Unit Test
 
-This program is an implementation of an interface class for easily managing and handling a project (like add people, add assignments, create a list of tasks, create tasks, move tasks from a list to another, assign tasks, delete tasks, etc.).
+As its name suggests, this project is an implementation of project management applications such as Trello. It is an object-oriented design in c++ and handles different tasks, users, and lists by providing several features such as adding people, adding assignments, creating a list of tasks, creating tasks, moving tasks from a list to another, assigning tasks, deleting tasks, etc. Also, the logs of the added lists or completed tasks are stored.
 
-As its name suggests, It is somehow like what people do in Trello but tasks, users, and lists are just names!
+In the main file (main.cpp), you can find a sample of how to use the UTrello interface. The object oriented implementation of the classes List, Task, User, and UTrelloInterface can be found in the following files: List.cpp, List.hpp, Task.cpp, Task.hpp, User.cpp, User.hpp, UTrellointerface.cpp, and UTrellointerface.hpp. For building the entire project, a makefile is provided. Finally, the logs are stored in the sampleout.txt file.
 
-Also  history is recorded of which lists had added or was that successful or not, and....
-
-I used object orientation design in c++.
-
-main.cpp is a sample of using UTrello interface. List.cpp, List.hpp, Task.cpp, Task.hpp, User.cpp, User.hpp, UTrellointerface.cpp, and UTrellointerface.hpp contain the code of Utrello class. makefile is for attaching all this files together. The sampleout.txt file is the recorded file of what happened in main.cpp.
-
-This program was my assignment in the Advanced Programming course, University of Tehran, Fall 2019.
+This project is for my assignment in the Advanced Programming course, University of Tehran, Fall 2019.
